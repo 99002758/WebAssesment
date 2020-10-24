@@ -1,0 +1,26 @@
+[
+    {
+        "name": "sumanth",
+        "city": "Kadapa",
+        "type": "Vegeterian",
+        "cuisine": ["Indian"]
+    },
+    {
+        "name": "Surabi",
+        "city": "Mysore",
+        "type": "non-Vegeterian",
+        "cuisine": ["Chinese"]
+    },
+    {
+        "name": "rajbhavan",
+        "city": "bangalore",
+        "type": "Vegetaian",
+        "cuisine": ["Indian"]
+    },
+    {
+        "name": "oyesterbay",
+        "city": "bangalore",
+        "type": "Non-Vegetaian",
+        "cuisine": ["Indian"]
+    }
+]
